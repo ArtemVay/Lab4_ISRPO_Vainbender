@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\bin\Debug\net10.0\Lab4_ISPRO_Vainbender.exe
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\bin\Debug\net10.0\Lab4_ISPRO_Vainbender.deps.json
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\bin\Debug\net10.0\Lab4_ISPRO_Vainbender.runtimeconfig.json
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\bin\Debug\net10.0\Lab4_ISPRO_Vainbender.dll
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\bin\Debug\net10.0\Lab4_ISPRO_Vainbender.pdb
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\obj\Debug\net10.0\Lab4_ISPRO_Vainbender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\obj\Debug\net10.0\Lab4_ISPRO_Vainbender.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\obj\Debug\net10.0\Lab4_ISPRO_Vainbender.AssemblyInfo.cs
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\obj\Debug\net10.0\Lab4_ISPRO_Vainbender.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\obj\Debug\net10.0\Lab4_ISPRO_Vainbender.sourcelink.json
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\obj\Debug\net10.0\Lab4_ISPRO_Vainbender.dll
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\obj\Debug\net10.0\refint\Lab4_ISPRO_Vainbender.dll
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\obj\Debug\net10.0\Lab4_ISPRO_Vainbender.pdb
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\obj\Debug\net10.0\Lab4_ISPRO_Vainbender.genruntimeconfig.cache
+C:\Users\user\Documents\Lab4_ISPRO_Vainbender\server\obj\Debug\net10.0\ref\Lab4_ISPRO_Vainbender.dll
