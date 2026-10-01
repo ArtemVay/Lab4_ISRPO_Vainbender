@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab4_ISPRO_Vainbender")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa87a904337d7decf6790538bb43a904fba9156")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ecca289d69fb1bb94cbbb8e7d9d6b0d052ccb84")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab4_ISPRO_Vainbender")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab4_ISPRO_Vainbender")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
